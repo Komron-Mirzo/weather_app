@@ -1,16 +1,9 @@
 # weather_app_api
 
-A new Flutter project.
+Weather App in Flutter using Openweather.org API, http, geolocator and async programming
 
-## Getting Started
+## Here is the outcome
 
-This project is a starting point for a Flutter application.
+![weather app gif](https://user-images.githubusercontent.com/74512232/183239644-f3349de7-2267-41bf-bde5-c695b090cc6e.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
